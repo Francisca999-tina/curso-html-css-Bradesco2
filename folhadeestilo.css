@@ -61,4 +61,16 @@ nav ul li a:hover{
     margin-bottom: 0;
 }
 
+/* definir as propriedades dos pop'ups */
+.modalDialog {
+    position: fixed;
+    font-family: verdana;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(181, 9, 9, 0.8);
+    z-index: 9999;
+}
+
 
